@@ -1,0 +1,168 @@
+.course-info {
+    font-size: 90%;
+    color: #777;
+}
+
+.jumbotron {
+    background-color: #0c85b3;
+    color: #fff;
+    padding: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.copyright {
+    color: #0c85b3;
+}
+
+.postdate {
+    color: #999;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.nav {
+    padding-left: 10px;
+}
+
+.topmarg {
+    margin-top: 170px;
+}
+
+.navbar {
+    background-color: #0c85b3;
+    color: #fff;
+}
+
+.navbar li a, .navbar .navbar-brand {
+      color: #fff !important;
+  }
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+      color: #0c85b3 !important;
+      background-color: #fff !important;
+  }
+
+footer {
+    /*position: absolute;
+    bottom: 0;*/
+    width: 100%;
+    color: #0c85b3;
+    background-color: white;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+body {
+    padding-top: 0px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    position: relative;
+    /*font-family: 'Source Sans Pro', sans-serif;;*/
+}
+
+ul.nav-pills {
+      top: 20px;
+      position: fixed;
+}
+
+.nav-contact {
+    top: 500px;
+    position: fixed;
+    padding-left: 18px;
+}
+
+.navbar-header {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.navbar-toggle {
+    background-color: #fff;
+}
+
+.container {
+    padding-top: 20px;
+}
+
+.table-borderless tbody tr td, .table-borderless tbody tr th, .table-borderless thead tr th {
+    border: none;
+}
+
+.row {
+    margin: 0px;
+/*    padding: 0px;*/
+}
+
+.bs-callout {
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px
+}
+
+.bs-callout h4 {
+    margin-top: 0;
+    margin-bottom: 5px
+}
+
+.bs-callout p:last-child {
+    margin-bottom: 0
+}
+
+.bs-callout code {
+    border-radius: 3px
+}
+
+.bs-callout + .bs-callout {
+    margin-top: -5px
+}
+
+.bs-callout-info {
+    border-left-color: #0c85b3
+}
+
+.bs-callout-info h4 {
+    color: #0c85b3
+}
+
+h4 {
+    color: #666
+}
+
+h2 {
+    padding-top: 20px;
+}
+
+.well-blue {
+    border-color: #0c85b3;
+    background-color: #eee;
+}
+
+.panel-heading {
+    font-weight: 500;
+}
+
+.biblinks {
+    float:right;
+}
+
+.headline h2 {
+    border-bottom: 2px solid #0c85b3;
+}
+
+.course {
+    margin-bottom: 30px;
+}
+
+@media print {
+        p {
+        text-align: justify;
+        }
+}
+
+/*
+ul {
+    padding: 0;
+}*/
